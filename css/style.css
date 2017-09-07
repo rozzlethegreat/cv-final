@@ -1,0 +1,67 @@
+*{
+    margin:0;
+    padding:0;
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+    font-family: 'Bitter';
+}
+
+#container{
+    width: 1250px;
+    margin: 20px auto;
+}
+
+h1 {
+    font-size: 48px;
+    vertical-align: top;
+    padding-top: 30px;
+}
+
+header{
+    margin: 30px 8%;
+}
+
+
+header > *{
+    display: inline-block;
+}
+
+.header-text{
+    font-size: 15px;
+    vertical-align: top;
+    margin-top: 25px;
+}
+
+.image {
+    height: 150px;
+    margin: 0 30px 0 30px;
+}
+
+#timeline{
+    margin-top: 50px;
+    height: 200px;
+}
+
+.text{
+    font-size: 13px;
+    width: 370px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 50px;
+}
+
+.text-edge{
+    margin: 0;
+}
+
+.title{
+    text-decoration: underline;
+    font-size: 13px;
+}
+
+.ref{
+    display: inline-block;
+    margin-right: 30px;
+}
+
